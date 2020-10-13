@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="62" started-at="2020-08-18T12:40:26Z" finished-at="2020-08-18T12:40:26Z">
+    <groups>
+    </groups>
+    <test name="RegrassionTesting" duration-ms="62" started-at="2020-08-18T12:40:26Z" finished-at="2020-08-18T12:40:26Z">
+      <class name="EST_TimeZone.TestNgExp1">
+        <test-method status="PASS" signature="Hai()[pri:0, instance:EST_TimeZone.TestNgExp1@971d0d8]" name="Hai" duration-ms="7" started-at="2020-08-18T12:40:26Z" finished-at="2020-08-18T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hai -->
+        <test-method status="PASS" signature="PrintMsg()[pri:0, instance:EST_TimeZone.TestNgExp1@971d0d8]" name="PrintMsg" duration-ms="1" started-at="2020-08-18T12:40:26Z" finished-at="2020-08-18T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintMsg -->
+        <test-method status="PASS" signature="SayHello()[pri:0, instance:EST_TimeZone.TestNgExp1@971d0d8]" name="SayHello" duration-ms="0" started-at="2020-08-18T12:40:26Z" finished-at="2020-08-18T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SayHello -->
+      </class> <!-- EST_TimeZone.TestNgExp1 -->
+      <class name="EST_TimeZone.TestNGExp2">
+        <test-method status="PASS" signature="f()[pri:0, instance:EST_TimeZone.TestNGExp2@51931956]" name="f" duration-ms="1" started-at="2020-08-18T12:40:26Z" finished-at="2020-08-18T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="g()[pri:0, instance:EST_TimeZone.TestNGExp2@51931956]" name="g" duration-ms="0" started-at="2020-08-18T12:40:26Z" finished-at="2020-08-18T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method status="PASS" signature="h()[pri:0, instance:EST_TimeZone.TestNGExp2@51931956]" name="h" duration-ms="0" started-at="2020-08-18T12:40:26Z" finished-at="2020-08-18T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+        <test-method status="PASS" signature="l()[pri:0, instance:EST_TimeZone.TestNGExp2@51931956]" name="l" duration-ms="0" started-at="2020-08-18T12:40:26Z" finished-at="2020-08-18T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- l -->
+      </class> <!-- EST_TimeZone.TestNGExp2 -->
+      <class name="EST_TimeZone.TestNGExp3">
+        <test-method status="PASS" signature="k()[pri:1, instance:EST_TimeZone.TestNGExp3@2b4a2ec7]" name="k" duration-ms="0" started-at="2020-08-18T12:40:26Z" finished-at="2020-08-18T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- k -->
+        <test-method status="PASS" signature="d()[pri:2, instance:EST_TimeZone.TestNGExp3@2b4a2ec7]" name="d" duration-ms="0" started-at="2020-08-18T12:40:26Z" finished-at="2020-08-18T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d -->
+        <test-method status="PASS" signature="s()[pri:3, instance:EST_TimeZone.TestNGExp3@2b4a2ec7]" name="s" duration-ms="0" started-at="2020-08-18T12:40:26Z" finished-at="2020-08-18T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s -->
+        <test-method status="PASS" signature="f()[pri:4, instance:EST_TimeZone.TestNGExp3@2b4a2ec7]" name="f" duration-ms="0" started-at="2020-08-18T12:40:26Z" finished-at="2020-08-18T12:40:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- EST_TimeZone.TestNGExp3 -->
+    </test> <!-- RegrassionTesting -->
+  </suite> <!-- Suite -->
+</testng-results>
